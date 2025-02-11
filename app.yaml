@@ -1,3 +1,8 @@
 apiversion:v1
+<<<<<<< HEAD
 kind:deployment
 #created a yaml file from dev machine
+=======
+kind:pod
+#created a yaml file from dev machine
+>>>>>>> 6e0ad3074f177212635f73473d49017c046cc675
