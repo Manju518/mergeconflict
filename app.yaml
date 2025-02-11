@@ -1,2 +1,3 @@
 apiversion:v1
+kind:deployment
 #created a yaml file from dev machine
